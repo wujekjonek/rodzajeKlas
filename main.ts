@@ -15,3 +15,15 @@ klasa33.go();
 
 // klasa bez parametrów która sama cos robi
 Klasa004.go();
+
+
+
+
+//     **
+//     /\
+//    / o\
+//   /   o\
+//  / o    \
+// /________\
+//     ||
+//     --

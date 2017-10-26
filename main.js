@@ -9,3 +9,11 @@ var klasa33 = new Klasa003(4, 5);
 klasa33.go();
 // klasa bez parametrów która sama cos robi
 Klasa004.go();
+//     **
+//     /\
+//    / o\
+//   /   o\
+//  / o    \
+// /________\
+//     ||
+//     -- 
